@@ -2,6 +2,7 @@
     "version":"4.7.7.6",
     "mandatory":false,
     "url":"https://superemis.com/superemis.msi",
+    "url2":"https://superemis.com/superemis.msi",
     "points":
     [
         "يرجى اعادة تنزيل بيانات المدرسة",
