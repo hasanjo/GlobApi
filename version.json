@@ -1,0 +1,11 @@
+{
+    "version": "4.7.7.7",
+    "mandatory": true,
+    "url": "https://superemis.com/superemis.msi",
+    "url2": "https://superemis.com/superemis.msi",
+    "points": [
+        "يرجى اعادة تنزيل بيانات المدرسة",
+        "تنزيل العلامات السابقة لطلبة التاسع",
+        "توزيع الحصص"
+    ]
+}
