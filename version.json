@@ -1,0 +1,11 @@
+{
+    "version": "4.7.7.9",
+    "mandatory": false,
+    "url": "https://superemis.com/update.msi",
+    "url2": "https://superemis.com/update.msi",
+    "points": [
+        "المعدل على الشهادة",
+        "إظهار الاعشار على الشهادة",
+        ""
+    ]
+}
